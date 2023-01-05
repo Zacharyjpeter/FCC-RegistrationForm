@@ -2,9 +2,7 @@
 Current project. A form for creating a new user account. Helped me learn to manipulate fieldsets, inputs, and labels. Not as much CSS here.
 <br>
 <br>
-<!---
-"View the live site" insert web link here. Once we figure out how to do that...
---->
+View <a href="https://zacharyjpeter.github.io/FCC-RegistrationForm">the finished project</a> here
 <br>
 <br>
 My biggest challenge was remembering the accessibility best practices. Also was confused why a relative font size like "em" was necessary. Commit history starts here once I finally figured out how to push to Github correctly.
